@@ -6,7 +6,7 @@ This report investigates the No-Show appointment dataset, The dataset collects i
   * Neighborhood: Indicates the location of the hospital.
   * Scholarship: Indicates whether or not the patient is enrolled in the Brasilian welfare program.
   * No-Show: Indicates 'Yes' for a no-show, and 'No' for a patient who showed up.
-##Some Of The Questions Answered In the Investigation Are:
+## Some Of The Questions Answered In the Investigation Are:
   * What factors influences a patient to show up or not for their scheduled appointment?
   * Is sending an SMS as a reminder helpful to reducing the rate of No-Show?
   * Which gender received SMS reminder the more?
